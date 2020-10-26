@@ -1,0 +1,6 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\obj\Debug\ArrayLibrary.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\ArrayLibrary\obj\Debug\ArrayLibrary.pdb

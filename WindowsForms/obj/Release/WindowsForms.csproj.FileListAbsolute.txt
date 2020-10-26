@@ -1,0 +1,13 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\bin\Release\WindowsForms.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\bin\Release\WindowsForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\bin\Release\WindowsForms.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\bin\Release\ArrayLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\bin\Release\ArrayLibrary.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.Form1.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.Properties.Resources.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.csproj.CopyComplete
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №04\ISMDotNet4\WindowsForms\obj\Release\WindowsForms.pdb
